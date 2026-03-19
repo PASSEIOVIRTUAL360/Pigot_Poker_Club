@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.11/21010
 // Filename: Pigot Poker Club.ggsk
-// Generated 2026-03-18T23:54:22
+// Generated 2026-03-19T00:16:17
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });
@@ -1802,12 +1802,12 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 35px;';
+		hs+='height : 40px;';
 		hs+='position : absolute;';
 		hs+='right : 2px;';
 		hs+='top : 5px;';
 		hs+='visibility : inherit;';
-		hs+='width : 34px;';
+		hs+='width : 40px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
